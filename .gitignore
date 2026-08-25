@@ -1,0 +1,6 @@
+cookies.json
+proxies.txt
+__pycache__/
+dist/
+*.zip
+

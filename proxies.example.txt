@@ -1,0 +1,5 @@
+# 複製成 proxies.txt，一行一個，執行時隨機抽一條
+# http://127.0.0.1:7890
+# http://user:pass@host:port
+# 1.2.3.4:8080
+# host:port:user:pass
